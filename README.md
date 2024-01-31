@@ -1,6 +1,9 @@
 ###
 **Chosen Task: Backend - Document Q&A API**
 
+**Note**: There are gaps in the functionality, however it completes the general tasks. I would love to discuss the changes that can be made during the interview.
+This was made in under 4 hours. (school work did not permit me to spend much more time)
+
 ## Demo Video 
 https://www.youtube.com/watch?v=XGV9zHECcGc&ab_channel=JonathanS
 
